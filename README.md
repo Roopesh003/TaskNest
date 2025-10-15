@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -23,3 +24,6 @@ Task Management Application
 =======
 Title: TaskNest - Task Management Application (Version 1)
 >>>>>>> d0916270bdef93d532ff40f51d661ece2aa156f1
+=======
+
+>>>>>>> origin/main
