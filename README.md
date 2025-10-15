@@ -1,2 +1,1 @@
-# TaskNest
-Task Management Application
+Title: TaskNest - Task Management Application (Version 1)
