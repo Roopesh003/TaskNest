@@ -7,7 +7,7 @@ export default function Taskform({addTask}) {
 
     const handelsubmit = (e) => {
         e.preventDefault();
-        addTask({text: task, priority, category, complete:false});
+        addTask({text: task, priority, category, completed:false});
 
         // reset
         setTask('');
